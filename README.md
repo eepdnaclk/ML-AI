@@ -1,5 +1,5 @@
 # ML-AI
-This contains a list of companies working on jobs related to ML/AI in Sri Lanka
+This contains a list of companies working on problems related to ML/AI in Sri Lanka
 
 ## SL industry
 
