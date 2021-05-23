@@ -10,7 +10,7 @@ However, there are a few situations where ML is used for other tasks including v
 ### Companies with main focus on data
 
 <ul>
-  <li>[John Keells-Octave](https://www.keells.com/octave/) - Octave is a data science division of JKH. But recently there is some work related to Computer Vision such as identifying vegetables/crops quality. 
+  <li><a href="https://www.keells.com/octave/">(John Keells-Octave)</a> - Octave is a data science division of JKH. But recently there is some work related to Computer Vision such as identifying vegetables/crops quality. 
   <li> blah
 </ul>
 
