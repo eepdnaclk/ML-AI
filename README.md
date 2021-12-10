@@ -34,4 +34,5 @@ However, there are a few situations where ML is used for other tasks including v
   <li> <a href="http://tengriuav.com/">TengriUAV</a> - The work is on designing Unmanned Aerial Vehicles (UAVs). 
   <li> <a href="https://orelit.com">OrelIT</a>.
   <li> <a href="https://zone24x7.com">Zone24x7</a>.
+  <li> <a href="https://rootcode.ai/about/">RootCodeAI</a> - Working on NLP mostly.
 </ul>
